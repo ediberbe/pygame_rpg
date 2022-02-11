@@ -10,14 +10,14 @@ Before you continue, ensure you have met the following requirements:
 ## Start
 
 To start program run main.py script using Python.  
-If on windows you can also double click on main.bat
+If on windows you can also double click on main.bat  
 
 ## Controls
 
-Arrow Keys -> Move Camera
-Mouse Right Click -> Press UI Button
-Mouse Left Click -> Go to position
-1 -> Attack
+Arrow Keys -> Move Camera  
+Mouse Right Click -> Press UI Button  
+Mouse Left Click -> Go to position  
+1 -> Attack  
 
 ## Built With
 
