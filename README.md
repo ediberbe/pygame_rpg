@@ -1,6 +1,10 @@
 # pygame_rpg
 Reusable code for future games in PyGame.
 
+## Screenshots
+
+![Untitled13423](https://user-images.githubusercontent.com/60759315/153619056-e03d4371-de86-4be1-9ad5-031c770373bc.png)
+
 ## Prerequisites
 
 Before you continue, ensure you have met the following requirements:
@@ -15,9 +19,9 @@ If on windows you can also double click on main.bat
 ## Controls
 
 Arrow Keys -> Move Camera  
-Mouse Right Click -> Press UI Button  
-Mouse Left Click -> Go to position  
-1 -> Attack  
+Mouse Left Click -> Press UI Button  
+Mouse Right Click -> Go to position  
+Key 1 -> Attack  
 
 ## Built With
 
@@ -27,6 +31,6 @@ Mouse Left Click -> Go to position
 
 ## Acknowledgements
 
-Inspiration: [link](https://store.steampowered.com/app/233860/Kenshi/)  
-Font: [link](https://managore.itch.io/m5x7)  
-Characters: [link](https://cleancutgames.itch.io/pixelart-fantasy-characters)
+* Inspiration [link](https://store.steampowered.com/app/233860/Kenshi/)  
+* Font [link](https://managore.itch.io/m5x7)  
+* Characters [link](https://cleancutgames.itch.io/pixelart-fantasy-characters)
